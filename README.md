@@ -22,3 +22,9 @@ git branch -M main
 
 # 推送代码和标签到github
 git push -u origin main
+
+
+
+
+# 新建分支 feature_v2
+git checkout -b feature-v2
